@@ -10,12 +10,11 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 text-center max-w-5xl mx-auto animate-fade-in-up">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 bg-gradient-to-r from-foreground via-accent to-primary bg-clip-text text-transparent">
-          Creative Developer
-          <br />& Designer
+          Roblox UI Designer
         </h1>
         
         <p className="text-xl md:text-2xl text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Crafting digital experiences that blend aesthetic excellence with cutting-edge technology
+          Creating stunning game interfaces in Figma that bring Roblox experiences to life
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

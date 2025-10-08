@@ -7,26 +7,26 @@ import project3 from "@/assets/project-3.jpg";
 const Portfolio = () => {
   const projects = [
     {
-      title: "Modern Web Platform",
-      description: "A cutting-edge web application with stunning visuals and smooth interactions",
+      title: "RPG Game UI",
+      description: "Complete UI system for a fantasy RPG with inventory, stats, and quest tracking",
       image: project1,
-      tags: ["React", "TypeScript", "Tailwind"],
+      tags: ["Figma", "Roblox", "RPG"],
       demoUrl: "#",
       githubUrl: "#",
     },
     {
-      title: "Mobile App Design",
-      description: "Sleek mobile interface design with intuitive user experience",
+      title: "Simulator Game HUD",
+      description: "Modern HUD design for a pet simulator with shop and progression systems",
       image: project2,
-      tags: ["UI/UX", "Mobile", "Figma"],
+      tags: ["Figma", "Roblox", "Simulator"],
       demoUrl: "#",
       githubUrl: "#",
     },
     {
-      title: "Brand Identity",
-      description: "Complete brand identity system with logo and visual guidelines",
+      title: "Obby UI Kit",
+      description: "Clean and responsive UI kit for obby games with leaderboards and challenges",
       image: project3,
-      tags: ["Branding", "Design", "Identity"],
+      tags: ["Figma", "Roblox", "Obby"],
       demoUrl: "#",
       githubUrl: "#",
     },
@@ -38,7 +38,7 @@ const Portfolio = () => {
         <div className="text-center mb-20 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">Featured Work</h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            A selection of projects that showcase my skills and passion for creating exceptional digital experiences
+            A showcase of Roblox UI designs crafted in Figma for immersive gaming experiences
           </p>
         </div>
 

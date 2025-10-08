@@ -3,19 +3,19 @@ import { Code2, Palette, Sparkles } from "lucide-react";
 const About = () => {
   const skills = [
     {
-      icon: Code2,
-      title: "Development",
-      description: "Building responsive and performant web applications with modern technologies",
+      icon: Palette,
+      title: "UI Design",
+      description: "Crafting pixel-perfect interfaces in Figma tailored for Roblox games",
     },
     {
-      icon: Palette,
-      title: "Design",
-      description: "Creating beautiful and intuitive user interfaces that users love",
+      icon: Code2,
+      title: "Roblox Expertise",
+      description: "Deep understanding of Roblox UI/UX principles and player expectations",
     },
     {
       icon: Sparkles,
-      title: "Innovation",
-      description: "Pushing boundaries with creative solutions and cutting-edge approaches",
+      title: "Creative Vision",
+      description: "Transforming game concepts into immersive, engaging user interfaces",
     },
   ];
 
@@ -25,8 +25,8 @@ const About = () => {
         <div className="text-center mb-20 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">About Me</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            I'm a passionate developer and designer focused on creating exceptional digital experiences.
-            With a keen eye for detail and a love for clean code, I bring ideas to life.
+            I'm a passionate Roblox UI designer specializing in creating immersive game interfaces using Figma.
+            With a keen eye for detail and deep understanding of player experience, I bring game visions to life.
           </p>
         </div>
 
