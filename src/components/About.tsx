@@ -4,18 +4,18 @@ const About = () => {
   const skills = [
     {
       icon: Palette,
-      title: "UI Design",
-      description: "Crafting pixel-perfect interfaces in Figma tailored for Roblox games",
+      title: "Conversion-Focused Design",
+      description: "UI designs that increase player retention, in-game purchases, and overall engagement",
     },
     {
       icon: Code2,
-      title: "Roblox Expertise",
-      description: "Deep understanding of Roblox UI/UX principles and player expectations",
+      title: "Roblox-Optimized",
+      description: "Deep expertise in Roblox UI constraints and best practices to ensure flawless implementation",
     },
     {
       icon: Sparkles,
-      title: "Creative Vision",
-      description: "Transforming game concepts into immersive, engaging user interfaces",
+      title: "Fast Turnaround",
+      description: "Professional Figma deliverables with developer handoff notes to accelerate your launch",
     },
   ];
 
@@ -23,10 +23,10 @@ const About = () => {
     <section className="py-32 px-4" id="about">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-20 animate-fade-in">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">About Me</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Why Work With Me</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            I'm a passionate Roblox UI designer specializing in creating immersive game interfaces using Figma.
-            With a keen eye for detail and deep understanding of player experience, I bring game visions to life.
+            I specialize in Roblox UI design that drives results. Every interface is crafted in Figma to maximize player engagement, 
+            boost conversions, and deliver a seamless experience that keeps players coming back.
           </p>
         </div>
 

@@ -36,9 +36,9 @@ const Portfolio = () => {
     <section className="py-32 px-4 bg-muted/30" id="portfolio">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-20 animate-fade-in">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">Featured Work</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Recent Projects</h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            A showcase of Roblox UI designs crafted in Figma for immersive gaming experiences
+            Professional Roblox UI designs that help games stand out and convert players into loyal fans
           </p>
         </div>
 

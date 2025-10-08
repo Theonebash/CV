@@ -12,15 +12,15 @@ const Contact = () => {
     <section className="py-32 px-4" id="contact">
       <div className="max-w-4xl mx-auto text-center">
         <div className="animate-fade-in-up">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">Let's Work Together</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Ready to Level Up Your Game?</h2>
           <p className="text-xl text-muted-foreground mb-12 max-w-2xl mx-auto">
-            I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+            Let's create a UI that captivates players and drives results. Get a free consultation and project quote.
           </p>
 
           <Button variant="hero" size="lg" className="mb-16" asChild>
             <a href="mailto:hello@example.com">
               <Mail className="w-5 h-5" />
-              Get In Touch
+              Request Free Consultation
             </a>
           </Button>
 
